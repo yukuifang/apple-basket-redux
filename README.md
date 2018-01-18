@@ -1,8 +1,8 @@
 #### 1.how to run the project:
 
- > #####1. git clone https://github.com/yukuifang/apple-basket-redux
- > #####2. npm install
- > #####3. npm start
+ > ##### 1. git clone https://github.com/yukuifang/apple-basket-redux
+ > ##### 2. npm install
+ > ##### 3. npm start
  
  #### 2.project file structure :
  
