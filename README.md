@@ -1,10 +1,10 @@
-yyy####1.how to run the project:
+#### 1.how to run the project:
 
  > #####1. git clone https://github.com/yukuifang/apple-basket-redux
  > #####2. npm install
  > #####3. npm start
  
- ####2.project file structure :
+ #### 2.project file structure :
  
  app              源码文件夹：包含项目源码，我们基本都在这个文件夹下做开发
      - containers   容器文件夹：存放容器组件，比如 “苹果篮子”
@@ -16,17 +16,19 @@ yyy####1.how to run the project:
      - images       图片文件夹：存放图片资源
      - apis         开发接口文件夹：存放开发接口文档
  
- ####3.note
- https://segmentfault.com/a/1190000005356568#articleHeader5
+ #### 3.note
+ 本文借鉴于：
+ [《实例讲解基于 React+Redux 的前端开发流程》](https://segmentfault.com/a/1190000005356568#articleHeader5)
  
-###参考资料
+ 
+### 参考资料
  - 《MDN Javascript Documents》
 
  - 阮一峰 《ECMAScript 6入门》
 
  - IVAN ROGIC 《React, Redux and Immutable.js: Ingredients for Efficient Web Applications》
 
-####项目相关js库列表：
+#### 项目相关js库列表：
 
 webpack ： js开发环境和打包器
 
