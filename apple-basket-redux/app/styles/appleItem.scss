@@ -1,0 +1,47 @@
+.appleItem{
+   position: relative;
+   width: 95%;
+   display: inline-block;
+   border: solid  0.5px lightgray;
+   margin: 8px;
+   box-sizing: border-box;
+
+   >.apple{
+     display: inline-block;
+     width: 56px;
+     height: 56px;
+     background-image: url("../images/apple.png");
+
+   }
+  >.info{
+    display: inline-block;
+    >.name{
+      margin:10px;
+    }
+    >.weight{
+      margin:10px;
+    }
+  }
+  >.btn-div{
+    font-size: 12px;
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    margin-top: (-35px/2);
+    height: 35px;
+    width: 50px;
+    background-color: lightblue;
+    color: white;
+    border-radius: 10%;
+    line-height: 35px;
+    text-align: center;
+    >button{
+      color: white;
+    }
+
+
+
+  }
+
+}
