@@ -6,7 +6,8 @@
  
  #### 2.project file structure :
  
- app              源码文件夹：包含项目源码，我们基本都在这个文件夹下做开发
+ app源码文件夹：包含项目源码，我们基本都在这个文件夹下做开发
+ 
      - containers   容器文件夹：存放容器组件，比如 “苹果篮子”
      - components   组件文件夹：存放普通显示组件，比如 “苹果”
      - actions      actions文件夹：存放可以发出的action 
